@@ -1,3 +1,4 @@
+Робоча сторінка - https://alinataran.github.io/goit-js-hw-11-color-switch/
 
 
 Задание - Переключатель цветов
